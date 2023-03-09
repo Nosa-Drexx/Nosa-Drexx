@@ -4,7 +4,7 @@ Adept at translating designs, writing quality codes, and fostering relationships
 
 - 🌱 I’m currently learning **Nuxt**
 
-- 💬 Ask me about **React & Javascript** 
+- 💬 Ask me about **React, Vue & Javascript** 
 
 - 📫 How to reach me: **nosaegharevba01@gmail.com**
 
